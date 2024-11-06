@@ -1,9 +1,8 @@
 {
-    "longversion": "10000",
-    "version": "1.0.0",
-    "released": 1730649516,
+    "longversion": 10002,
+    "version": "1.0.2",
+    "released": 1730923894,
     "security": false,
     "severity": null,
-    "blockms": true,
     "updateurl": "https:\/\/www.ic-essentials.com\/files\/file\/75-unanswered-topics\/"
 }
