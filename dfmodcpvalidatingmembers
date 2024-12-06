@@ -1,7 +1,7 @@
 {
-    "longversion": 10005,
-    "version": "2.0.0",
-    "released": 1733509648,
+    "longversion": 10006,
+    "version": "2.0.1",
+    "released": 1733509694,
     "security": false,
     "severity": null,
     "updateurl": "https:\/\/www.ic-essentials.com\/files\/file\/102-validating-members-in-modcp\/?do=getNewComment"
